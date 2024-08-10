@@ -3,7 +3,7 @@ An IMDb clone site created by [@BonsaiPlays](https://github.com/BonsaiPlays).
 
 Completed on 10-08-2024.
 
-This is personal project, created for educational purposes for leaning the practical implementaions of the following:
+This is personal project, created for educational purposes for leaning the practical implementations of the following:
   REACT JS,
   VITE,
   CORE JAVA SCRIPT,
