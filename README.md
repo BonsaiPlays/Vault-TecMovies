@@ -12,7 +12,7 @@ This is personal project, created for educational purposes for leaning the pract
   AXIOS &
   THE-MOVIE-DATABASE (TMDB) API.
 
-This project consists of a basic landing page, pagination system ,and functioning watch-list system with search and genre-wise classification.
+This project consists of a basic landing page, pagination system ,and functioning watch-list system with search, genre-wise classification and rating-based sorting.
 
 In order to run this project: 
 1. Redirect to ".../Vault-Tec Movies/Movie" or directly open "Integrated Terminal" from this directory.
