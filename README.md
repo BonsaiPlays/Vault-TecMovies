@@ -13,3 +13,5 @@ This is personal project, created for educational purposes for leaning the pract
   THE-MOVIE-DATABASE (TMDB) API.
 
 This project consists of a basic landing page, pagination system ,and functioning watch-list system with search and genre-wise classification.
+
+The run command for this project is - "npm run dev" from the directory: ".../Vault-Tec Movies/Movie"
