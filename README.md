@@ -15,6 +15,6 @@ This is personal project, created for educational purposes for leaning the pract
 This project consists of a basic landing page, pagination system ,and functioning watch-list system with search and genre-wise classification.
 
 In order to run this project: 
-1. Redirect to '.../Vault-Tec Movies/Movie' or directly open 'Integrated Terminal' from this directory.
-2. Run: 'npm i' or 'npm install'
-3. Run: 'npm run dev' to create a live local host.
+1. Redirect to ".../Vault-Tec Movies/Movie" or directly open "Integrated Terminal" from this directory.
+2. Run: "npm i" or "npm install"
+3. Run: "npm run dev" to create a live local host.
