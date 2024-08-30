@@ -18,3 +18,5 @@ In order to run this project:
 1. Redirect to ".../Vault-Tec Movies/Movie" or directly open "Integrated Terminal" from this directory.
 2. Run: "npm i" or "npm install"
 3. Run: "npm run dev" to create a live local host.
+
+LinkedIn link: https://www.linkedin.com/posts/nisanthsaravanan_delighted-to-announce-the-successful-completion-activity-7228036847321432065-euab?utm_source=share&utm_medium=member_android
