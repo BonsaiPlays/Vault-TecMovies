@@ -19,4 +19,5 @@ In order to run this project:
 2. Run: "npm i" or "npm install"
 3. Run: "npm run dev" to create a live local host.
 
-LinkedIn link: https://www.linkedin.com/posts/nisanthsaravanan_delighted-to-announce-the-successful-completion-activity-7228036847321432065-euab?utm_source=share&utm_medium=member_android
+LinkedIn link: https://shorturl.at/t51FL
+
