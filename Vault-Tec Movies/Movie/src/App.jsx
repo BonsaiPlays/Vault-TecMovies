@@ -2,8 +2,6 @@
 // Completed on 10-08-2024
 
 import { useEffect, useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
 import NavBar from "./Components/NavBar";
 import Movies from "./Components/Movies";
 import Watchlist from "./Components/Watchlist";
@@ -40,7 +38,7 @@ function App() {
     <div
       className="h-[260vh] md:h[900vh] bg-scroll"
       style={{
-        backgroundImage: "url(../src/assets/BG.jpg)",
+        backgroundImage: "url(../assets/BG.jpg)",
       }}
     >
       <BrowserRouter>
