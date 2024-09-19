@@ -6,7 +6,7 @@ import React from "react";
 function Banner() {
   return (
     <div
-      className="h-[80vh] md:h[90vh] bg-cover bg-center flex items-center"
+      className="flex flex-row shrink h-[60vh] md:h[100vh] bg-cover bg-center flex items-center"
       style={{
         backgroundImage: "url(https://wallpapercave.com/wp/wp2906350.jpg)",
       }}

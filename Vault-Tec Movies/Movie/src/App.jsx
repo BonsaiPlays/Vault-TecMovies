@@ -36,7 +36,7 @@ function App() {
 
   return (
     <div
-      className="h-[260vh] md:h[900vh] bg-scroll"
+      className="flex flex-col grow min-h-[200vh] bg-cover bg-fixed"
       style={{
         backgroundImage: "url(../assets/BG.jpg)",
       }}

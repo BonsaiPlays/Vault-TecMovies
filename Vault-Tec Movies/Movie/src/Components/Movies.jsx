@@ -34,7 +34,7 @@ function Movies({handleAddToWatchlist, handleRemoveFromWatchlist, watchlist}) {
 
   return (
     <div>
-      <h1 className="w-full text-center text-yellow-500 text-sans text-3xl font-bold text-left py-6">
+      <h1 className="w-full text-center text-yellow-500 text-sans text-2xl font-bold text-left py-6">
         Trending Now
       </h1>
 

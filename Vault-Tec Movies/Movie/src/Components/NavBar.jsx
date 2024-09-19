@@ -7,18 +7,22 @@ import { Link } from "react-router-dom";
 
 export const NavBar = () => {
   return (
-    <div className="flex border-zinc space-x-4 items-center pl-3 py-4">
-      <img className="w-[90px]" src={logo} alt="" />
-      <Link to='/' className="w-1/2 justify-center text-yellow-500 font-sans hover:text-fuchsia-700 text-2xl font-bold text-left active:text-fuchsia-800">
-        Vault-Tec Movies
-      </Link>
-      <div className="flex w-full justify-end space-x-9 items-center pl-4 py-4 pr-10">
-        <Link to="/" className="text-yellow-500 font-sans hover:text-fuchsia-700 text-2xl font-bold active:text-fuchsia-800">
+    <div className="flex space-x-4 items-center pl-4 py-4">
+      <div className="w-full h-90">
+        <Link to='/'>
+          <img className="h-full max-h-9" src={logo} alt="" />
+        </Link>
+        <Link to='/' className="pl-1.5 text-base text-yellow-500 font-sans hover:text-fuchsia-700 font-bold active:text-fuchsia-800">
+          Vault-Tec
+        </Link>
+      </div>
+      <div className="flex w-full justify-end space-x-8 items-center py-4 pr-6">
+        <Link to="/" className="text-[2vh + 2vw] text-yellow-500 font-sans hover:text-fuchsia-700 font-bold active:text-fuchsia-800">
           Movies
         </Link>
         <Link
           to="/watchlist"
-          className="text-yellow-500 font-sans hover:text-fuchsia-700 text-2xl font-bold active:text-fuchsia-800"
+          className="text-[2vh + 2vw] text-yellow-500 font-sans hover:text-fuchsia-700 font-bold active:text-fuchsia-800"
         >
           Watchlist
         </Link>

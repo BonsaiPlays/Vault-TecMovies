@@ -7,7 +7,7 @@ import genreId from "../assets/genreId";
 function Watchlist({ watchlist, handleRemoveFromWatchlist, setWatchlist }) {
   const [search, setSearch] = useState("");
   const [genreList, setGenreList] = useState(["All Genres"]);
-  const [currentGenre, setCurrentGenre] = useState("All Genre");
+  const [currentGenre, setCurrentGenre] = useState("All Genres");
 
   let handleSearch = (e) => {
     setSearch(e.target.value);
